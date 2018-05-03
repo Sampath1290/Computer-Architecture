@@ -1,15 +1,15 @@
-# Computer-Architecture project using verilog and MARS (MIPS Assembly and Runtime Simulator) tools
+# ComputerArchitecture
 
-#Finished
+## Finished
 
-Register File
+* Register File
 
-Sign Extender
+* Sign Extender
 
-2x1 Multiplexer
+* 2x1 Multiplexer
 
-#To do
+## To do
 
-Instruction Decode
+* Instruction Decode
 
-Control Signals
+* Control Signals
